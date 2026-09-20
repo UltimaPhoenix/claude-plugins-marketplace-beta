@@ -1,0 +1,41 @@
+{
+  "name": "ultimaphoenix-beta",
+  "description": "Beta channel of UltimaPhoenix's plugins — devcoach canaries built from develop, unreleased, may break.",
+  "owner": {
+    "name": "UltimaPhoenix",
+    "url": "https://github.com/UltimaPhoenix"
+  },
+  "plugins": [
+    {
+      "name": "devcoach",
+      "version": "2.5.0-next.580.g7777f02",
+      "description": "Progressive technical coach for Claude Code: one lesson at a time, based on what you actually build. Knowledge map, coaching notebook, web dashboard, all local. Bundles the devcoach MCP server, the Stop hooks and the coaching skill.",
+      "author": {
+        "name": "UltimaPhoenix",
+        "url": "https://github.com/UltimaPhoenix"
+      },
+      "homepage": "https://ultimaphoenix.github.io/dev-coach/",
+      "repository": "https://github.com/UltimaPhoenix/dev-coach",
+      "license": "AGPL-3.0-only",
+      "category": "learning",
+      "keywords": [
+        "coaching",
+        "learning",
+        "mentoring",
+        "mcp",
+        "developer-tools"
+      ],
+      "tags": [
+        "coaching",
+        "learning",
+        "mcp",
+        "beta"
+      ],
+      "source": {
+        "source": "archive",
+        "url": "https://github.com/UltimaPhoenix/dev-coach/releases/download/next/devcoach-plugin-2.5.0-next.580.g7777f02.zip",
+        "sha256": "e3a093526d337432e2c37fd1218a69aebe8c9daa7d32ce59717f746b56545e33"
+      }
+    }
+  ]
+}
