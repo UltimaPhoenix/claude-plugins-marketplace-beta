@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "devcoach",
-      "version": "2.5.0-next.593.gb12f8e3",
+      "version": "2.6.0-next.597.g16b8c2e",
       "description": "Progressive technical coach for Claude Code: one lesson at a time, based on what you actually build. Knowledge map, coaching notebook, web dashboard, all local. Bundles the devcoach MCP server, the Stop hooks and the coaching skill.",
       "author": {
         "name": "UltimaPhoenix",
@@ -33,8 +33,8 @@
       ],
       "source": {
         "source": "archive",
-        "url": "https://github.com/UltimaPhoenix/dev-coach/releases/download/next/devcoach-plugin-archive-2.5.0-next.593.gb12f8e3.zip",
-        "sha256": "ff02752e3fa76fb607cb68193d409ddebc884303ef1802c923fec8721137174c"
+        "url": "https://github.com/UltimaPhoenix/dev-coach/releases/download/next/devcoach-plugin-archive-2.6.0-next.597.g16b8c2e.zip",
+        "sha256": "5425238f46a9bf22a9a32087a46fdf136e3fca688225f9a0af78b2e61b7dbf3c"
       }
     }
   ]
