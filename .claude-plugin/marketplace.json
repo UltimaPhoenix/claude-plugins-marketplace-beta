@@ -8,7 +8,7 @@
   "plugins": [
     {
       "name": "devcoach",
-      "version": "2.8.0-next.804.g32e8256",
+      "version": "2.8.0-next.805.gec761bb",
       "description": "Learn from the code your AI writes: one short lesson at a time on what you don't know yet, drawn from what Claude Code just built. Knowledge map, coaching notebook, web dashboard, all local. Bundles the devcoach MCP server, the Stop hooks and the coaching skill.",
       "author": {
         "name": "UltimaPhoenix",
@@ -33,8 +33,8 @@
       ],
       "source": {
         "source": "archive",
-        "url": "https://github.com/UltimaPhoenix/dev-coach/releases/download/next/devcoach-plugin-archive-2.8.0-next.804.g32e8256.zip",
-        "sha256": "204368fe9f7a7e9a9d1a52c4831483df93de7b45e8d7257212e99000d1b9443f"
+        "url": "https://github.com/UltimaPhoenix/dev-coach/releases/download/next/devcoach-plugin-archive-2.8.0-next.805.gec761bb.zip",
+        "sha256": "ff62701d4044e929b251326024c21d85aa35387495a174665e26185d169c3165"
       }
     }
   ]
